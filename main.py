@@ -2,10 +2,7 @@
 # pip install qrcode[pil]
 
 # Exemplo: Lista de sites de E-commerce de informática
-import qrcode
-
-imagem_qrcode = qrcode.make('objeto')
-imagem_qrcode.save('nome')
+# import qrcode
 
 links_sites = {
   'KaBum': 'https://www.kabum.com.br/',
