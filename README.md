@@ -1,1 +1,1 @@
-# Exemplo: Lista de sites de E-commerce de informática
+# Exemplo: Lista de sites de E-commerce de Informática
